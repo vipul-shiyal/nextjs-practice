@@ -1,0 +1,6 @@
+{
+  "/not-found": "app/not-found.js",
+  "/add-bill/page": "app/add-bill/page.js",
+  "/customer/page": "app/customer/page.js",
+  "/complex-dashboard/page": "app/complex-dashboard/page.js"
+}
